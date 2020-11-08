@@ -1,0 +1,11 @@
+D:\Games\Ondushi\repos\TcpTraining\Listener\bin\Debug\netcoreapp3.1\Listener.exe
+D:\Games\Ondushi\repos\TcpTraining\Listener\bin\Debug\netcoreapp3.1\Listener.deps.json
+D:\Games\Ondushi\repos\TcpTraining\Listener\bin\Debug\netcoreapp3.1\Listener.runtimeconfig.json
+D:\Games\Ondushi\repos\TcpTraining\Listener\bin\Debug\netcoreapp3.1\Listener.runtimeconfig.dev.json
+D:\Games\Ondushi\repos\TcpTraining\Listener\bin\Debug\netcoreapp3.1\Listener.dll
+D:\Games\Ondushi\repos\TcpTraining\Listener\bin\Debug\netcoreapp3.1\Listener.pdb
+D:\Games\Ondushi\repos\TcpTraining\Listener\obj\Debug\netcoreapp3.1\Listener.csprojAssemblyReference.cache
+D:\Games\Ondushi\repos\TcpTraining\Listener\obj\Debug\netcoreapp3.1\Listener.AssemblyInfoInputs.cache
+D:\Games\Ondushi\repos\TcpTraining\Listener\obj\Debug\netcoreapp3.1\Listener.AssemblyInfo.cs
+D:\Games\Ondushi\repos\TcpTraining\Listener\obj\Debug\netcoreapp3.1\Listener.dll
+D:\Games\Ondushi\repos\TcpTraining\Listener\obj\Debug\netcoreapp3.1\Listener.pdb
