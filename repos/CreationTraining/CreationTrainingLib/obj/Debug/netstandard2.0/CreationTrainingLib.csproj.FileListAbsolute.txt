@@ -1,0 +1,9 @@
+d:\Games\Ondushi\repos\CreationTraining\CreationTrainingLib\bin\Debug\netstandard2.0\CreationTrainingLib.deps.json
+d:\Games\Ondushi\repos\CreationTraining\CreationTrainingLib\bin\Debug\netstandard2.0\CreationTrainingLib.dll
+d:\Games\Ondushi\repos\CreationTraining\CreationTrainingLib\bin\Debug\netstandard2.0\CreationTrainingLib.pdb
+d:\Games\Ondushi\repos\CreationTraining\CreationTrainingLib\obj\Debug\netstandard2.0\CreationTrainingLib.csprojAssemblyReference.cache
+d:\Games\Ondushi\repos\CreationTraining\CreationTrainingLib\obj\Debug\netstandard2.0\CreationTrainingLib.AssemblyInfoInputs.cache
+d:\Games\Ondushi\repos\CreationTraining\CreationTrainingLib\obj\Debug\netstandard2.0\CreationTrainingLib.AssemblyInfo.cs
+d:\Games\Ondushi\repos\CreationTraining\CreationTrainingLib\obj\Debug\netstandard2.0\CreationTrainingLib.csproj.CoreCompileInputs.cache
+d:\Games\Ondushi\repos\CreationTraining\CreationTrainingLib\obj\Debug\netstandard2.0\CreationTrainingLib.dll
+d:\Games\Ondushi\repos\CreationTraining\CreationTrainingLib\obj\Debug\netstandard2.0\CreationTrainingLib.pdb
