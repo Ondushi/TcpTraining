@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>
+        Login: 
+    </h1>
+    <input id="loginInput" />
+    </br>
+    <h1>
+        Password: 
+    </h1>
+    <input id="passwordInput" type="password"/>
+    </br>
+    </br>
+    <button onclick="onClick()">
+        Submit👌
+    </button>
+    <button onclick="generateElements()">Generate elements</button>
+    <a href="/adminpage">Go to adminpage</a>
+    <script>
+        window.onload = () => { alert("compl") }
+        window.onkeyup = (ev) => {
+            if (ev.key == "Enter") {
+                onClick()
+            }
+        }
+        async function onClick() {
+
+            var passwordInput = document.getElementById("passwordInput")
+            var loginInput = document.getElementById("loginInput")
+
+            var correctPasswordResponse = await fetch("/password")
+            var correctPassword = await correctPasswordResponse.text()
+            var correctLoginResponse = await fetch("/login")
+            var correctLogin = await correctLoginResponse.text()
+
+            if (correctLogin == loginInput.value.toLowerCase() && correctPassword == passwordInput.value) {
+                window.location = "/adminpage"
+            }
+            else alert("net")
+        }
+        function generateElements() {
+
+        }
+    </script>
+</body>
+
+</html>

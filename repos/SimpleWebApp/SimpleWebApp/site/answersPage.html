@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body id="body">
+    Вопрос: <input />
+    <br/>
+    Ответ: <input id="input1" />
+    <script>
+        window.onload = async () => {
+            alert("compl")
+            var RAResponse = await fetch("/randomAnswer")
+            var RA = await RAResponse.text()
+            var rainput = document.getElementById("input1")
+            rainput.value = RA;
+        }
+    </script>
+</body>
+</html>
